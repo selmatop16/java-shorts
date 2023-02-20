@@ -1,6 +1,8 @@
 public class Hello {
     public static void main(String[] args) {
-//changres
+//changes
+        System.out.println("hello");
+        System.out.println("hello");
         System.out.println("hello");
     }
 }
